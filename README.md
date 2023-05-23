@@ -1,2 +1,4 @@
-# repeat-admission-patient
-Recurring Admissions to Substance Abuse Treatment
+# Predicting repeat patients in substance abuse treatment programs using history of Treatment Episodes Dataset
+
+
+The report with detailed analysis is available [here](https://github.com/pjeena/Predicting-readmissions-to-substance-abuse-treatment-MERCK-hackathon-/blob/main/Team_19_report.pdf)
